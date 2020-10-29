@@ -1,0 +1,24 @@
+body{
+    color:#333333;
+    max-width: 650;
+    margin: 0 auto;
+
+    padding: 0 16px;    
+}
+body h1{
+    color: black;
+    border-top: 16px;
+    margin-top: 16px;
+}
+footer{
+    color: #888888;
+    border-top: 16px;
+    margin: 15px;
+}
+header a {
+    color: rgb(26, 42, 134);
+    margin-right: 20px;
+    text-decoration: none;
+    
+
+}
